@@ -1,0 +1,13 @@
+C:\Users\Camil\source\repos\Projet2\Projet2\bin\Debug\netcoreapp3.1\Projet2.exe
+C:\Users\Camil\source\repos\Projet2\Projet2\bin\Debug\netcoreapp3.1\Projet2.deps.json
+C:\Users\Camil\source\repos\Projet2\Projet2\bin\Debug\netcoreapp3.1\Projet2.runtimeconfig.json
+C:\Users\Camil\source\repos\Projet2\Projet2\bin\Debug\netcoreapp3.1\Projet2.runtimeconfig.dev.json
+C:\Users\Camil\source\repos\Projet2\Projet2\bin\Debug\netcoreapp3.1\Projet2.dll
+C:\Users\Camil\source\repos\Projet2\Projet2\bin\Debug\netcoreapp3.1\Projet2.pdb
+C:\Users\Camil\source\repos\Projet2\Projet2\obj\Debug\netcoreapp3.1\Projet2.csproj.AssemblyReference.cache
+C:\Users\Camil\source\repos\Projet2\Projet2\obj\Debug\netcoreapp3.1\Projet2.AssemblyInfoInputs.cache
+C:\Users\Camil\source\repos\Projet2\Projet2\obj\Debug\netcoreapp3.1\Projet2.AssemblyInfo.cs
+C:\Users\Camil\source\repos\Projet2\Projet2\obj\Debug\netcoreapp3.1\Projet2.csproj.CoreCompileInputs.cache
+C:\Users\Camil\source\repos\Projet2\Projet2\obj\Debug\netcoreapp3.1\Projet2.dll
+C:\Users\Camil\source\repos\Projet2\Projet2\obj\Debug\netcoreapp3.1\Projet2.pdb
+C:\Users\Camil\source\repos\Projet2\Projet2\obj\Debug\netcoreapp3.1\Projet2.genruntimeconfig.cache
